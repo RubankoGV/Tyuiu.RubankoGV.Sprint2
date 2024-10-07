@@ -13,10 +13,10 @@ namespace Tyuiu.RubankoGV.Sprint2.Task5.V7.Lib
                     res = "Январь";
                     break;
                 case 2:
-                    res = "Март";
+                    res = "март";
                     break;
                 case 3:
-                    res = "Март";
+                    res = "март";
                     break;
                 case 4:
                     res = "Апрель";
