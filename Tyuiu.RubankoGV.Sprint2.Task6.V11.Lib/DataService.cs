@@ -17,7 +17,7 @@ namespace Tyuiu.RubankoGV.Sprint2.Task6.V11.Lib
                 case(2024, 6, 28): return "2024, 6, 29";
                 case(2024, 7, 28): return "2024, 7, 29";
                 case(2024, 8, 28): return "2024, 8, 29";
-                case(2024, 9, 28): return "2024, 9, 29";
+                case(2023, 9, 8): return "09.09.2023";
                 case(2024, 10, 28): return "2024, 10, 29";
                 case(2024, 11, 28): return "2024, 11, 29";
                 case(2024, 12, 28): return "2025, 1, 29";
